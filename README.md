@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **zenkriiheb@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/iheb-zenkri-8a6b10213]
+- 📄 Know about my experiences [https://www.linkedin.com/in/iheb-zenkri](https://www.linkedin.com/in/iheb-zenkri-8a6b10213)
 
 - ⚡ Fun fact **Something I can improve about myself is my software knowledge, which is why I currently take technology courses during the evenings and weekends.**
 
