@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **zenkriiheb@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/iheb-zenkri-8a6b10213" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle"></a>
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/iheb-zenkri-8a6b10213" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:bottom"></a>
 
 - ⚡ Fun fact **Something I can improve about myself is my software knowledge, which is why I currently take technology courses during the evenings and weekends.**
 
