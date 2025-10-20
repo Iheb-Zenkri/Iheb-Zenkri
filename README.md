@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm zenkri iheb</h1>
-<h3 align="center">A passionate software engineer from Tunisia</h3>
+<h3 align="center">A Final-year software engineer from Tunisia</h3>
 
-- 🔭 I’m currently working on **developing mobile app called SNS for service management**
+- 🔭 I’m currently working on **developing a SAAS for renting and selling houses in Djerba "DjerbaBnB"**
 
-- 🌱 I’m currently learning **Mobile and web development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Iheb-Zenkri](https://github.com/Iheb-Zenkri)
+- 🌱 I’m currently learning **Machine learning**
 
 - 📫 How to reach me **zenkriiheb@gmail.com**
 
